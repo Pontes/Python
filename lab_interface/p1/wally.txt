@@ -1,0 +1,960 @@
+0.103536925402    SN.node[1].Application                   SLOT BBB 0DO NO 1
+0.103536925402    SN.node[1].Application                   Start 83
+0.103536925402    SN.node[1].Application                   DADOS - seq 0 do no 1 destino 0 para nó 0 transmissor 1
+0.103536925402    SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 0 destino 0 origem 1 transmissor 1
+0.111876925399    SN.node[0].Application                   DADOS RECEBIDO - seq 0 origem 1 transmissor 1 destino 0
+0.111876925399    SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+0.127545895294    SN.node[0].Application                   SLOT DO SINK
+0.127545895294    SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+0.127545895294    SN.node[0].Application                   DADOS - seq 0 do no 0 destino 0 para nó 0 transmissor 0
+0.127545895294    SN.node[0].Application                   No Buffer: pacote tipo 3 seqdata 0 destino 0 origem 0 transmissor 0
+0.127545895294    SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+0.127545895294    SN.node[0].Application                   DADOS - seq 0 do no 0 destino 0 para nó 0 transmissor 0
+0.127545895294    SN.node[0].Application                   No Buffer: pacote tipo 3 seqdata 0 destino 0 origem 0 transmissor 0
+0.129989477958    SN.node[1].Application                   ACK RECEBIDO - Seq 0 ackid 0 seqdata 0 nopai 0
+0.129989477958    SN.node[1].Application                    Tamanho do buffer depois pop 0
+0.13541251189     SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+0.13541251189     SN.node[2].Application                   buffer vazio  size 0
+13.028319331391   SN.node[0].Application                   SLOT AAA 0DO NO 0
+13.028319331391   SN.node[0].Application                   Start 93
+13.028319331391   SN.node[0].Application                   buffer ok  size 1
+13.028319331391   SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+13.028319331391   SN.node[0].Application                   Start 35
+13.034236803134   SN.node[1].Application                   SLOT BBB 0DO NO 1
+13.034236803134   SN.node[1].Application                   Start 86
+13.034236803134   SN.node[1].Application                   buffer ok  size 1
+13.034236803134   SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+13.036072518986   SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+13.036072518986   SN.node[2].Application                   DADOS - seq 0 do no 2 destino 0 para nó 0 transmissor 2
+13.036072518986   SN.node[2].Application                   No Buffer: pacote tipo 3 seqdata 0 destino 0 origem 2 transmissor 2
+13.050391435301   SN.node[0].Application                   DADOS RECEBIDO - seq 1 origem 1 transmissor 1 destino 0
+13.050391435301   SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+13.060237983875   SN.node[1].Application                   ACK RECEBIDO - Seq 1 ackid 0 seqdata 1 nopai 0
+13.060237983875   SN.node[1].Application                    Tamanho do buffer depois pop 0
+25.929092767488   SN.node[0].Application                   SLOT BBB 0DO NO 0
+25.929092767488   SN.node[0].Application                   Start 49
+25.929092767488   SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+25.929092767488   SN.node[0].Application                   buffer vazio  size 0
+25.946891442398   SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+25.946891442398   SN.node[2].Application                   buffer vazio  size 0
+25.960325309052   SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+25.960325309052   SN.node[1].Application                   buffer vazio  size 0
+38.829866203585   SN.node[0].Application                   SLOT BBB 0DO NO 0
+38.829866203585   SN.node[0].Application                   Start 90
+38.829866203585   SN.node[0].Application                   buffer ok  size 1
+38.829866203585   SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+38.829866203585   SN.node[0].Application                   Start 59
+38.847551449494   SN.node[2].Application                   SLOT BBB 0DO NO 2
+38.847551449494   SN.node[2].Application                   Start 63
+38.860412634229   SN.node[1].Application                   SLOT BBB 0DO NO 1
+38.860412634229   SN.node[1].Application                   Start 26
+51.730639639682   SN.node[0].Application                   SLOT DO SINK
+51.730639639682   SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+51.730639639682   SN.node[0].Application                   buffer vazio  size 0
+51.730639639682   SN.node[0].Application                   Start 26
+51.74821145659    SN.node[2].Application                   SLOT BBB 0DO NO 2
+51.74821145659    SN.node[2].Application                   Start 72
+51.74821145659    SN.node[2].Application                   buffer ok  size 1
+51.74821145659    SN.node[2].Application                   Sending [Data] of size 105 bytes to communication layer
+51.756551456587   SN.node[1].Application                   ACK ENVIADO - Seq 0 nó de origem pkt 2 Ackid 1
+51.756551456587   SN.node[1].Application                   ELSE - RETRANSMITINDO DADOS 0 origem 2 transmissor 2
+51.756551456587   SN.node[1].Application                    Tamanho do buffer no retransmite 0
+51.756551456587   SN.node[1].Application                   buffer ok  size 1
+51.756551456587   SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+51.760499959406   SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+51.760499959406   SN.node[1].Application                   buffer vazio  size 0
+51.767792452174   SN.node[0].Application                   Origem 1 diferente do pai 0 OU o SeqACK 0 diferente de SeqData 1
+51.767792452174   SN.node[2].Application                   ACK RECEBIDO - Seq 0 ackid 1 seqdata 0 nopai 1
+51.767792452174   SN.node[2].Application                    Tamanho do buffer depois pop 0
+51.771952452173   SN.node[0].Application                   ACK ENVIADO - Seq 0 nó de origem pkt 2 Ackid 0
+51.771952452173   SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 0 do no 2
+51.803126952468   SN.node[1].Application                    Tamanho do buffer antes pop 0
+64.66845245927    SN.node[2].Application                   SLOT BBB 0DO NO 2
+64.66845245927    SN.node[2].Application                   Start 11
+64.668565888271   SN.node[0].Application                   SLOT DO SINK
+64.668565888271   SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+64.668565888271   SN.node[0].Application                   buffer vazio  size 0
+64.668565888271   SN.node[0].Application                   Start 67
+64.703214277645   SN.node[1].Application                   SLOT BBB 0DO NO 1
+64.703214277645   SN.node[1].Application                   Start 29
+77.569112466366   SN.node[2].Application                   SLOT BBB 0DO NO 2
+77.569112466366   SN.node[2].Application                   Start 82
+77.569112466366   SN.node[2].Application                   buffer ok  size 1
+77.569112466366   SN.node[2].Application                   Sending [Data] of size 105 bytes to communication layer
+77.569339324368   SN.node[0].Application                   SLOT BBB 0DO NO 0
+77.569339324368   SN.node[0].Application                   Start 30
+77.569339324368   SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+77.569339324368   SN.node[0].Application                   buffer vazio  size 0
+77.577452466363   SN.node[1].Application                   ACK ENVIADO - Seq 1 nó de origem pkt 2 Ackid 1
+77.577452466363   SN.node[1].Application                   ELSE - RETRANSMITINDO DADOS 1 origem 2 transmissor 2
+77.577452466363   SN.node[1].Application                    Tamanho do buffer no retransmite 0
+77.577452466363   SN.node[1].Application                   buffer ok  size 1
+77.577452466363   SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+77.603301602822   SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+77.603301602822   SN.node[1].Application                   buffer vazio  size 0
+77.608450864412   SN.node[0].Application                   Origem 1 diferente do pai 0 OU o SeqACK 1 diferente de SeqData 0
+77.608450864412   SN.node[2].Application                   ACK RECEBIDO - Seq 1 ackid 1 seqdata 1 nopai 1
+77.608450864412   SN.node[2].Application                    Tamanho do buffer depois pop 0
+77.612610864411   SN.node[0].Application                   ACK ENVIADO - Seq 1 nó de origem pkt 2 Ackid 0
+77.612610864411   SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 1 do no 2
+77.624665512687   SN.node[1].Application                    Tamanho do buffer antes pop 0
+90.509110871508   SN.node[2].Application                   SLOT BBB 0DO NO 2
+90.509110871508   SN.node[2].Application                   Start 67
+90.509224300509   SN.node[0].Application                   SLOT DO SINK
+90.509224300509   SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+90.509224300509   SN.node[0].Application                   buffer vazio  size 0
+90.509224300509   SN.node[0].Application                   Start 29
+90.524752837864   SN.node[1].Application                   SLOT BBB 0DO NO 1
+90.524752837864   SN.node[1].Application                   Start 2
+103.409770878604  SN.node[2].Application                   SLOT BBB 0DO NO 2
+103.409770878604  SN.node[2].Application                   Start 22
+103.409997736606  SN.node[0].Application                   SLOT DO SINK
+103.409997736606  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+103.409997736606  SN.node[0].Application                   buffer vazio  size 0
+103.409997736606  SN.node[0].Application                   Start 69
+103.424840163041  SN.node[1].Application                   SLOT BBB 0DO NO 1
+103.424840163041  SN.node[1].Application                   Start 67
+116.3104308857    SN.node[2].Application                   SLOT BBB 0DO NO 2
+116.3104308857    SN.node[2].Application                   Start 93
+116.3104308857    SN.node[2].Application                   buffer ok  size 1
+116.3104308857    SN.node[2].Application                   Sending [Data] of size 105 bytes to communication layer
+116.310771172703  SN.node[0].Application                   SLOT BBB 0DO NO 0
+116.310771172703  SN.node[0].Application                   Start 56
+116.310771172703  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+116.310771172703  SN.node[0].Application                   buffer vazio  size 0
+116.318770885697  SN.node[1].Application                   ACK ENVIADO - Seq 2 nó de origem pkt 2 Ackid 1
+116.318770885697  SN.node[1].Application                   ELSE - RETRANSMITINDO DADOS 2 origem 2 transmissor 2
+116.318770885697  SN.node[1].Application                    Tamanho do buffer no retransmite 0
+116.318770885697  SN.node[1].Application                   buffer ok  size 1
+116.318770885697  SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+116.338663208511  SN.node[0].Application                   Origem 1 diferente do pai 0 OU o SeqACK 2 diferente de SeqData 1
+116.338663208511  SN.node[2].Application                   ACK RECEBIDO - Seq 2 ackid 1 seqdata 2 nopai 1
+116.338663208511  SN.node[2].Application                    Tamanho do buffer depois pop 0
+116.34282320851   SN.node[0].Application                   ACK ENVIADO - Seq 2 nó de origem pkt 2 Ackid 0
+116.34282320851   SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 2 do no 2
+116.355985141178  SN.node[1].Application                    Tamanho do buffer antes pop 1
+129.239323215607  SN.node[2].Application                   SLOT BBB 0DO NO 2
+129.239323215607  SN.node[2].Application                   Start 42
+129.239436644608  SN.node[0].Application                   SLOT DO SINK
+129.239436644608  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+129.239436644608  SN.node[0].Application                   buffer vazio  size 0
+129.239436644608  SN.node[0].Application                   Start 73
+129.239436644608  SN.node[0].Application                   buffer ok  size 1
+129.239436644608  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+129.256072466355  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+129.256072466355  SN.node[1].Application                   buffer vazio  size 0
+142.139983222703  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+142.139983222703  SN.node[2].Application                   buffer vazio  size 0
+142.140210080705  SN.node[0].Application                   SLOT AAA 1DO NO 0
+142.140210080705  SN.node[0].Application                   Start 84
+142.140210080705  SN.node[0].Application                   buffer ok  size 1
+142.140210080705  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+142.140210080705  SN.node[0].Application                   Start 37
+142.156159791532  SN.node[1].Application                   SLOT BBB 0DO NO 1
+142.156159791532  SN.node[1].Application                   Start 98
+142.156159791532  SN.node[1].Application                   buffer ok  size 1
+142.156159791532  SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+142.175458515738  SN.node[0].Application                   ACK ENVIADO - Seq 3 nó de origem pkt 1 Ackid 0
+142.175458515738  SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 3 do no 1
+142.193133329393  SN.node[1].Application                    Tamanho do buffer antes pop 1
+155.040643229799  SN.node[2].Application                   SLOT BBB 0DO NO 2
+155.040643229799  SN.node[2].Application                   Start 24
+155.040983516802  SN.node[0].Application                   SLOT DO SINK
+155.040983516802  SN.node[0].Application                   Start 15
+155.040983516802  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+155.040983516802  SN.node[0].Application                   buffer vazio  size 0
+155.09322065457   SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+155.09322065457   SN.node[1].Application                   buffer vazio  size 0
+167.941303236895  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+167.941303236895  SN.node[2].Application                   buffer vazio  size 0
+167.941756952899  SN.node[0].Application                   SLOT BBB 0DO NO 0
+167.941756952899  SN.node[0].Application                   Start 91
+167.941756952899  SN.node[0].Application                   buffer ok  size 1
+167.941756952899  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+167.941756952899  SN.node[0].Application                   Start 80
+167.941756952899  SN.node[0].Application                   buffer ok  size 1
+167.941756952899  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+167.993307979747  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+167.993307979747  SN.node[1].Application                   buffer vazio  size 0
+180.841963243991  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+180.841963243991  SN.node[2].Application                   DADOS - seq 3 do no 2 destino 1 para nó 1 transmissor 2
+180.841963243991  SN.node[2].Application                   No Buffer: pacote tipo 3 seqdata 3 destino 1 origem 2 transmissor 2
+180.842530388996  SN.node[0].Application                   SLOT DO SINK
+180.842530388996  SN.node[0].Application                   Start 62
+180.850303243988  SN.node[1].Application                   DADOS RECEBIDO - seq 3 origem 2 transmissor 2 destino 1
+180.850303243988  SN.node[1].Application                   Sending [Ack] of size 105 bytes to communication layer
+180.850303243988  SN.node[1].Application                   DADOS - seq 3 do no 2 destino 1 para nó 0 transmissor 1
+180.850303243988  SN.node[1].Application                    Tamanho do buffer no retarnsmite apos push 1
+180.850303243988  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 3 destino 0 origem 2 transmissor 1
+180.893395304924  SN.node[1].Application                   SLOT AAA 3DO NO 1
+180.893395304924  SN.node[1].Application                   Start 70
+180.897453279652  SN.node[0].Application                   ACK RECEBIDO - Seq 3 ackid 1 seqdata 3 nopai 0
+180.897453279652  SN.node[0].Application                    Tamanho do buffer com origem diferente 0
+180.897453279652  SN.node[2].Application                    Tamanho do buffer antes pop 1
+180.901613279651  SN.node[0].Application                   DADOS RECEBIDO - seq 3 origem 2 transmissor 1 destino 0
+180.901613279651  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+180.916466865973  SN.node[1].Application                   ACK RECEBIDO - Seq 3 ackid 0 seqdata 3 nopai 0
+180.916466865973  SN.node[1].Application                    Tamanho do buffer depois pop 0
+193.798113286748  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+193.798113286748  SN.node[2].Application                   DADOS - seq 4 do no 2 destino 1 para nó 1 transmissor 2
+193.798113286748  SN.node[2].Application                   No Buffer: pacote tipo 3 seqdata 4 destino 1 origem 2 transmissor 2
+193.798226715749  SN.node[0].Application                   SLOT DO SINK
+193.798226715749  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+193.798226715749  SN.node[0].Application                   DADOS - seq 3 do no 0 destino 0 para nó 0 transmissor 0
+193.798226715749  SN.node[0].Application                   No Buffer: pacote tipo 3 seqdata 3 destino 0 origem 0 transmissor 0
+193.798226715749  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+193.798226715749  SN.node[0].Application                   buffer vazio  size 0
+193.81655419115   SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+193.81655419115   SN.node[1].Application                   buffer vazio  size 0
+206.698773293844  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+206.698773293844  SN.node[2].Application                   DADOS - seq 4 do no 2 destino 1 para nó 1 transmissor 2
+206.698773293844  SN.node[2].Application                   No Buffer: pacote tipo 3 seqdata 4 destino 1 origem 2 transmissor 2
+206.699000151846  SN.node[0].Application                   SLOT DO SINK
+206.699000151846  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+206.699000151846  SN.node[0].Application                   buffer vazio  size 0
+206.699000151846  SN.node[0].Application                   Start 36
+206.707113293841  SN.node[1].Application                   DADOS RECEBIDO - seq 4 origem 2 transmissor 2 destino 1
+206.707113293841  SN.node[1].Application                   Sending [Ack] of size 105 bytes to communication layer
+206.707113293841  SN.node[1].Application                   DADOS - seq 4 do no 2 destino 1 para nó 0 transmissor 1
+206.707113293841  SN.node[1].Application                    Tamanho do buffer no retarnsmite apos push 1
+206.707113293841  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 4 destino 0 origem 2 transmissor 1
+206.752360115077  SN.node[0].Application                   ACK RECEBIDO - Seq 4 ackid 1 seqdata 3 nopai 0
+206.752360115077  SN.node[0].Application                    Tamanho do buffer com origem diferente 0
+206.752360115077  SN.node[2].Application                    Tamanho do buffer antes pop 1
+206.756520115076  SN.node[0].Application                   DADOS RECEBIDO - seq 4 origem 2 transmissor 1 destino 0
+206.756520115076  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+206.767083614867  SN.node[1].Application                   ACK RECEBIDO - Seq 4 ackid 0 seqdata 4 nopai 0
+206.767083614867  SN.node[1].Application                    Tamanho do buffer depois pop 0
+219.653020122173  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+219.653020122173  SN.node[2].Application                   buffer vazio  size 0
+219.653133551174  SN.node[0].Application                   SLOT BBB 0DO NO 0
+219.653133551174  SN.node[0].Application                   Start 46
+219.653133551174  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+219.653133551174  SN.node[0].Application                   buffer vazio  size 0
+219.667170940044  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+219.667170940044  SN.node[1].Application                   buffer vazio  size 0
+232.553680129269  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+232.553680129269  SN.node[2].Application                   buffer vazio  size 0
+232.553906987271  SN.node[0].Application                   SLOT BBB 0DO NO 0
+232.553906987271  SN.node[0].Application                   Start 24
+232.553906987271  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+232.553906987271  SN.node[0].Application                   DADOS - seq 4 do no 0 destino 0 para nó 0 transmissor 0
+232.553906987271  SN.node[0].Application                   No Buffer: pacote tipo 3 seqdata 4 destino 0 origem 0 transmissor 0
+232.567258265221  SN.node[1].Application                   SLOT BBB 0DO NO 1
+232.567258265221  SN.node[1].Application                   Start 82
+232.567258265221  SN.node[1].Application                   buffer ok  size 1
+232.567258265221  SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+232.587246792687  SN.node[0].Application                   ACK ENVIADO - Seq 5 nó de origem pkt 1 Ackid 0
+232.587246792687  SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 5 do no 1
+232.606382562011  SN.node[1].Application                    Tamanho do buffer antes pop 1
+245.454340136365  SN.node[2].Application                   SLOT BBB 0DO NO 2
+245.454340136365  SN.node[2].Application                   Start 45
+245.454680423368  SN.node[0].Application                   SLOT DO SINK
+245.454680423368  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+245.454680423368  SN.node[0].Application                   buffer vazio  size 0
+245.454680423368  SN.node[0].Application                   Start 67
+245.506469887188  SN.node[1].Application                   SLOT BBB 0DO NO 1
+245.506469887188  SN.node[1].Application                   Start 34
+258.355000143461  SN.node[2].Application                   SLOT BBB 0DO NO 2
+258.355000143461  SN.node[2].Application                   Start 64
+258.355453859465  SN.node[0].Application                   SLOT DO SINK
+258.355453859465  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+258.355453859465  SN.node[0].Application                   buffer vazio  size 0
+258.355453859465  SN.node[0].Application                   Start 50
+258.406557212365  SN.node[1].Application                   SLOT BBB 0DO NO 1
+258.406557212365  SN.node[1].Application                   Start 87
+258.406557212365  SN.node[1].Application                   buffer ok  size 1
+258.406557212365  SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+258.414897212362  SN.node[0].Application                   ACK ENVIADO - Seq 6 nó de origem pkt 1 Ackid 0
+258.414897212362  SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 6 do no 1
+258.432144559324  SN.node[1].Application                    Tamanho do buffer antes pop 1
+271.255660150557  SN.node[2].Application                   SLOT BBB 0DO NO 2
+271.255660150557  SN.node[2].Application                   Start 8
+271.256227295562  SN.node[0].Application                   SLOT DO SINK
+271.256227295562  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+271.256227295562  SN.node[0].Application                   DADOS - seq 6 do no 0 destino 0 para nó 0 transmissor 0
+271.256227295562  SN.node[0].Application                   No Buffer: pacote tipo 3 seqdata 6 destino 0 origem 0 transmissor 0
+271.256227295562  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+271.256227295562  SN.node[0].Application                   DADOS - seq 6 do no 0 destino 0 para nó 0 transmissor 0
+271.256227295562  SN.node[0].Application                   No Buffer: pacote tipo 3 seqdata 6 destino 0 origem 0 transmissor 0
+271.332231884501  SN.node[1].Application                   SLOT BBB 0DO NO 1
+271.332231884501  SN.node[1].Application                   Start 88
+271.332231884501  SN.node[1].Application                   buffer ok  size 1
+271.332231884501  SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+271.340571884498  SN.node[0].Application                   ACK ENVIADO - Seq 7 nó de origem pkt 1 Ackid 0
+271.340571884498  SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 7 do no 1
+271.357743102057  SN.node[1].Application                    Tamanho do buffer antes pop 1
+284.156320157653  SN.node[2].Application                   SLOT BBB 0DO NO 2
+284.156320157653  SN.node[2].Application                   Start 84
+284.156320157653  SN.node[2].Application                   buffer ok  size 1
+284.156320157653  SN.node[2].Application                   Sending [Data] of size 105 bytes to communication layer
+284.157000731659  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+284.157000731659  SN.node[0].Application                   buffer vazio  size 0
+284.16466015765   SN.node[1].Application                   ACK ENVIADO - Seq 5 nó de origem pkt 2 Ackid 1
+284.16466015765   SN.node[1].Application                   ELSE - RETRANSMITINDO DADOS 5 origem 2 transmissor 2
+284.16466015765   SN.node[1].Application                    Tamanho do buffer no retransmite 0
+284.16466015765   SN.node[1].Application                   buffer ok  size 1
+284.16466015765   SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+284.182037218808  SN.node[0].Application                   Origem 1 diferente do pai 0 OU o SeqACK 5 diferente de SeqData 7
+284.182037218808  SN.node[2].Application                   ACK RECEBIDO - Seq 5 ackid 1 seqdata 5 nopai 1
+284.182037218808  SN.node[2].Application                    Tamanho do buffer depois pop 0
+284.186197218807  SN.node[0].Application                   ACK ENVIADO - Seq 5 nó de origem pkt 2 Ackid 0
+284.186197218807  SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 5 do no 2
+284.197668822975  SN.node[1].Application                    Tamanho do buffer antes pop 1
+297.082697225904  SN.node[2].Application                   SLOT BBB 0DO NO 2
+297.082697225904  SN.node[2].Application                   Start 51
+297.082810654905  SN.node[0].Application                   SLOT DO SINK
+297.082810654905  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+297.082810654905  SN.node[0].Application                   buffer vazio  size 0
+297.082810654905  SN.node[0].Application                   Start 99
+297.082810654905  SN.node[0].Application                   buffer ok  size 1
+297.082810654905  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+297.097756148152  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+297.097756148152  SN.node[1].Application                   buffer vazio  size 0
+309.983357233     SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+309.983357233     SN.node[2].Application                   buffer vazio  size 0
+309.983584091002  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+309.983584091002  SN.node[0].Application                   DADOS - seq 5 do no 0 destino 0 para nó 0 transmissor 0
+309.983584091002  SN.node[0].Application                   No Buffer: pacote tipo 3 seqdata 5 destino 0 origem 0 transmissor 0
+309.997843473329  SN.node[1].Application                   SLOT BBB 0DO NO 1
+309.997843473329  SN.node[1].Application                   Start 68
+322.884017240096  SN.node[2].Application                   SLOT BBB 0DO NO 2
+322.884017240096  SN.node[2].Application                   Start 39
+322.884357527099  SN.node[0].Application                   SLOT DO SINK
+322.884357527099  SN.node[0].Application                   Start 12
+322.897930798506  SN.node[1].Application                   SLOT BBB 0DO NO 1
+322.897930798506  SN.node[1].Application                   Start 26
+335.784677247192  SN.node[2].Application                   SLOT BBB 0DO NO 2
+335.784677247192  SN.node[2].Application                   Start 86
+335.784677247192  SN.node[2].Application                   buffer ok  size 1
+335.784677247192  SN.node[2].Application                   Sending [Data] of size 105 bytes to communication layer
+335.785130963196  SN.node[0].Application                   SLOT BBB 0DO NO 0
+335.785130963196  SN.node[0].Application                   Start 94
+335.785130963196  SN.node[0].Application                   buffer ok  size 1
+335.785130963196  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+335.785130963196  SN.node[0].Application                   Start 39
+335.793017247189  SN.node[1].Application                   DADOS RECEBIDO - seq 6 origem 2 transmissor 2 destino 1
+335.793017247189  SN.node[1].Application                   Sending [Ack] of size 105 bytes to communication layer
+335.793017247189  SN.node[1].Application                   DADOS - seq 6 do no 2 destino 1 para nó 0 transmissor 1
+335.793017247189  SN.node[1].Application                    Tamanho do buffer no retarnsmite apos push 1
+335.793017247189  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 6 destino 0 origem 2 transmissor 1
+335.79934511373   SN.node[0].Application                   ACK RECEBIDO - Seq 6 ackid 1 seqdata 5 nopai 0
+335.79934511373   SN.node[0].Application                    Tamanho do buffer com origem diferente 0
+335.79934511373   SN.node[2].Application                    Tamanho do buffer antes pop 1
+335.803505113729  SN.node[0].Application                   DADOS RECEBIDO - seq 6 origem 2 transmissor 1 destino 0
+335.803505113729  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+348.700005120826  SN.node[2].Application                   SLOT BBB 0DO NO 2
+348.700005120826  SN.node[2].Application                   Start 95
+348.700005120826  SN.node[2].Application                   buffer ok  size 1
+348.700005120826  SN.node[2].Application                   Sending [Data] of size 105 bytes to communication layer
+348.700118549827  SN.node[0].Application                   SLOT BBB 0DO NO 0
+348.700118549827  SN.node[0].Application                   Start 70
+348.700118549827  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+348.700118549827  SN.node[0].Application                   buffer vazio  size 0
+361.598192774037  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+361.598192774037  SN.node[1].Application                   DADOS - seq 6 do no 1 destino 0 para nó 0 transmissor 1
+361.598192774037  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 6 destino 0 origem 1 transmissor 1
+361.600891985924  SN.node[0].Application                   SLOT DO SINK
+361.600891985924  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+361.600891985924  SN.node[0].Application                   buffer vazio  size 0
+361.600891985924  SN.node[0].Application                   Start 1
+361.606532774034  SN.node[0].Application                   DADOS RECEBIDO - seq 6 origem 1 transmissor 1 destino 0
+361.606532774034  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+361.623614642001  SN.node[1].Application                   ACK RECEBIDO - Seq 6 ackid 0 seqdata 6 nopai 0
+361.623614642001  SN.node[1].Application                    Tamanho do buffer depois pop 0
+374.501325135018  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+374.501325135018  SN.node[2].Application                   DADOS - seq 7 do no 2 destino 1 para nó 1 transmissor 2
+374.501325135018  SN.node[2].Application                   No Buffer: pacote tipo 3 seqdata 7 destino 1 origem 2 transmissor 2
+374.501665422021  SN.node[0].Application                   SLOT DO SINK
+374.501665422021  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+374.501665422021  SN.node[0].Application                   buffer vazio  size 0
+374.501665422021  SN.node[0].Application                   Start 17
+374.509665135015  SN.node[1].Application                   DADOS RECEBIDO - seq 7 origem 2 transmissor 2 destino 1
+374.509665135015  SN.node[1].Application                   Sending [Ack] of size 105 bytes to communication layer
+374.509665135015  SN.node[1].Application                   DADOS - seq 7 do no 2 destino 1 para nó 0 transmissor 1
+374.509665135015  SN.node[1].Application                    Tamanho do buffer no retarnsmite apos push 1
+374.509665135015  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 7 destino 0 origem 2 transmissor 1
+374.523701967178  SN.node[1].Application                   SLOT AAA 1DO NO 1
+374.523701967178  SN.node[1].Application                   Start 92
+374.523701967178  SN.node[1].Application                   buffer ok  size 1
+374.523701967178  SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+374.558717261057  SN.node[0].Application                   Origem 1 diferente do pai 0 OU o SeqACK 7 diferente de SeqData 6
+374.558717261057  SN.node[2].Application                   ACK RECEBIDO - Seq 7 ackid 1 seqdata 7 nopai 1
+374.558717261057  SN.node[2].Application                    Tamanho do buffer depois pop 0
+374.562877261056  SN.node[0].Application                   ACK ENVIADO - Seq 7 nó de origem pkt 2 Ackid 0
+374.562877261056  SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 7 do no 2
+374.571197261054  SN.node[0].Application                   ACK ENVIADO - Seq 7 nó de origem pkt 1 Ackid 0
+374.571197261054  SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 7 do no 1
+374.61094218265   SN.node[1].Application                    Tamanho do buffer antes pop 1
+374.615102182649  SN.node[1].Application                   ACK RECEBIDO - Seq 7 ackid 0 seqdata 8 nopai 0
+374.615102182649  SN.node[1].Application                    Tamanho do buffer com origem diferente 0
+387.459377268153  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+387.459377268153  SN.node[2].Application                   buffer vazio  size 0
+387.459490697154  SN.node[0].Application                   SLOT BBB 0DO NO 0
+387.459490697154  SN.node[0].Application                   Start 56
+387.459490697154  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+387.459490697154  SN.node[0].Application                   buffer vazio  size 0
+387.515189507826  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+387.515189507826  SN.node[1].Application                   DADOS - seq 8 do no 1 destino 0 para nó 0 transmissor 1
+387.515189507826  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 8 destino 0 origem 1 transmissor 1
+387.523529507823  SN.node[0].Application                   DADOS RECEBIDO - seq 8 origem 1 transmissor 1 destino 0
+387.523529507823  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+387.52932284097   SN.node[1].Application                   ACK RECEBIDO - Seq 8 ackid 0 seqdata 8 nopai 0
+387.52932284097   SN.node[1].Application                    Tamanho do buffer depois pop 0
+400.360037275249  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+400.360037275249  SN.node[2].Application                   DADOS - seq 8 do no 2 destino 1 para nó 1 transmissor 2
+400.360037275249  SN.node[2].Application                   No Buffer: pacote tipo 3 seqdata 8 destino 1 origem 2 transmissor 2
+400.360264133251  SN.node[0].Application                   SLOT DO SINK
+400.360264133251  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+400.360264133251  SN.node[0].Application                   buffer vazio  size 0
+400.360264133251  SN.node[0].Application                   Start 65
+400.368377275246  SN.node[1].Application                   DADOS RECEBIDO - seq 8 origem 2 transmissor 2 destino 1
+400.368377275246  SN.node[1].Application                   ELSE - RETRANSMITINDO DADOS 8 origem 2 transmissor 2
+400.368377275246  SN.node[1].Application                    Tamanho do buffer no retransmite 0
+400.368377275246  SN.node[1].Application                   buffer ok  size 1
+400.368377275246  SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+400.409277212628  SN.node[0].Application                   Origem 1 diferente do pai 0 OU o SeqACK 8 diferente de SeqData 8
+400.409277212628  SN.node[2].Application                   ACK RECEBIDO - Seq 8 ackid 1 seqdata 8 nopai 1
+400.409277212628  SN.node[2].Application                    Tamanho do buffer depois pop 0
+400.413437212627  SN.node[0].Application                   ACK ENVIADO - Seq 8 nó de origem pkt 2 Ackid 0
+400.413437212627  SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 8 do no 2
+400.423561771124  SN.node[1].Application                    Tamanho do buffer antes pop 1
+413.309937219724  SN.node[2].Application                   SLOT BBB 0DO NO 2
+413.309937219724  SN.node[2].Application                   Start 89
+413.309937219724  SN.node[2].Application                   buffer ok  size 1
+413.309937219724  SN.node[2].Application                   Sending [Data] of size 105 bytes to communication layer
+413.310050648725  SN.node[0].Application                   SLOT BBB 0DO NO 0
+413.310050648725  SN.node[0].Application                   Start 44
+413.310050648725  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+413.310050648725  SN.node[0].Application                   buffer vazio  size 0
+413.323649096301  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+413.323649096301  SN.node[1].Application                   buffer vazio  size 0
+426.210824084822  SN.node[0].Application                   SLOT BBB 0DO NO 0
+426.210824084822  SN.node[0].Application                   Start 29
+426.210824084822  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+426.210824084822  SN.node[0].Application                   buffer vazio  size 0
+426.223736421478  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+426.223736421478  SN.node[1].Application                   buffer vazio  size 0
+439.111597520919  SN.node[0].Application                   SLOT BBB 0DO NO 0
+439.111597520919  SN.node[0].Application                   Start 97
+439.111597520919  SN.node[0].Application                   buffer ok  size 1
+439.111597520919  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+439.111597520919  SN.node[0].Application                   Start 71
+439.111597520919  SN.node[0].Application                   buffer ok  size 1
+439.111597520919  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+439.123823746655  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+439.123823746655  SN.node[1].Application                   DADOS - seq 9 do no 1 destino 0 para nó 0 transmissor 1
+439.123823746655  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 9 destino 0 origem 1 transmissor 1
+439.139817223404  SN.node[0].Application                   DADOS RECEBIDO - seq 9 origem 1 transmissor 1 destino 0
+439.139817223404  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+439.157597719684  SN.node[1].Application                   ACK RECEBIDO - Seq 9 ackid 0 seqdata 9 nopai 0
+439.157597719684  SN.node[1].Application                    Tamanho do buffer depois pop 0
+452.012370957016  SN.node[0].Application                   SLOT AAA 0DO NO 0
+452.012370957016  SN.node[0].Application                   Start 75
+452.012370957016  SN.node[0].Application                   buffer ok  size 1
+452.012370957016  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+452.012370957016  SN.node[0].Application                   Start 9
+452.057685044861  SN.node[1].Application                   SLOT BBB 0DO NO 1
+452.057685044861  SN.node[1].Application                   Start 27
+464.912577248108  SN.node[2].Application                   SLOT AAA 0DO NO 2
+464.912577248108  SN.node[2].Application                   Start 67
+464.913144393113  SN.node[0].Application                   SLOT DO SINK
+464.913144393113  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+464.913144393113  SN.node[0].Application                   buffer vazio  size 0
+464.913144393113  SN.node[0].Application                   Start 97
+464.913144393113  SN.node[0].Application                   buffer ok  size 1
+464.913144393113  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+464.957772370038  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+464.957772370038  SN.node[1].Application                   buffer vazio  size 0
+477.813237255204  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+477.813237255204  SN.node[2].Application                   DADOS - seq 9 do no 2 destino 1 para nó 1 transmissor 2
+477.813237255204  SN.node[2].Application                   No Buffer: pacote tipo 3 seqdata 9 destino 1 origem 2 transmissor 2
+477.81391782921   SN.node[0].Application                   SLOT DO SINK
+477.81391782921   SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+477.81391782921   SN.node[0].Application                   buffer vazio  size 0
+477.81391782921   SN.node[0].Application                   Start 6
+477.821577255201  SN.node[1].Application                   DADOS RECEBIDO - seq 9 origem 2 transmissor 2 destino 1
+477.821577255201  SN.node[1].Application                   Sending [Ack] of size 105 bytes to communication layer
+477.821577255201  SN.node[1].Application                   DADOS - seq 9 do no 2 destino 1 para nó 0 transmissor 1
+477.821577255201  SN.node[1].Application                    Tamanho do buffer no retarnsmite apos push 1
+477.821577255201  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 9 destino 0 origem 2 transmissor 1
+477.839776229888  SN.node[0].Application                   ACK RECEBIDO - Seq 9 ackid 1 seqdata 9 nopai 0
+477.839776229888  SN.node[0].Application                    Tamanho do buffer com origem diferente 0
+477.839776229888  SN.node[2].Application                    Tamanho do buffer antes pop 1
+477.843936229887  SN.node[0].Application                   DADOS RECEBIDO - seq 9 origem 2 transmissor 1 destino 0
+477.843936229887  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+490.740436236984  SN.node[2].Application                   SLOT BBB 0DO NO 2
+490.740436236984  SN.node[2].Application                   Start 83
+490.740436236984  SN.node[2].Application                   buffer ok  size 1
+490.740436236984  SN.node[2].Application                   Sending [Data] of size 105 bytes to communication layer
+490.740549665985  SN.node[0].Application                   SLOT BBB 0DO NO 0
+490.740549665985  SN.node[0].Application                   Start 19
+490.740549665985  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+490.740549665985  SN.node[0].Application                   buffer vazio  size 0
+490.757947020392  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+490.757947020392  SN.node[1].Application                   buffer vazio  size 0
+503.64109624408   SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+503.64109624408   SN.node[2].Application                   DADOS - seq 10 do no 2 destino 1 para nó 1 transmissor 2
+503.64109624408   SN.node[2].Application                   No Buffer: pacote tipo 3 seqdata 10 destino 1 origem 2 transmissor 2
+503.641323102082  SN.node[0].Application                   SLOT DO SINK
+503.641323102082  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+503.641323102082  SN.node[0].Application                   buffer vazio  size 0
+503.641323102082  SN.node[0].Application                   Start 29
+503.649436244077  SN.node[1].Application                   DADOS RECEBIDO - seq 10 origem 2 transmissor 2 destino 1
+503.649436244077  SN.node[1].Application                   Sending [Ack] of size 105 bytes to communication layer
+503.649436244077  SN.node[1].Application                   DADOS - seq 10 do no 2 destino 1 para nó 0 transmissor 1
+503.649436244077  SN.node[1].Application                    Tamanho do buffer no retarnsmite apos push 1
+503.649436244077  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 10 destino 0 origem 2 transmissor 1
+503.663439298964  SN.node[0].Application                   ACK RECEBIDO - Seq 10 ackid 1 seqdata 9 nopai 0
+503.663439298964  SN.node[0].Application                    Tamanho do buffer com origem diferente 0
+503.663439298964  SN.node[2].Application                    Tamanho do buffer antes pop 1
+503.667599298963  SN.node[0].Application                   DADOS RECEBIDO - seq 10 origem 2 transmissor 1 destino 0
+503.667599298963  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+503.688479106315  SN.node[1].Application                   ACK RECEBIDO - Seq 10 ackid 0 seqdata 10 nopai 0
+503.688479106315  SN.node[1].Application                    Tamanho do buffer depois pop 0
+516.56409930606   SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+516.56409930606   SN.node[2].Application                   buffer vazio  size 0
+516.564212735061  SN.node[0].Application                   SLOT BBB 0DO NO 0
+516.564212735061  SN.node[0].Application                   Start 19
+516.564212735061  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+516.564212735061  SN.node[0].Application                   buffer vazio  size 0
+516.588566431492  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+516.588566431492  SN.node[1].Application                   buffer vazio  size 0
+529.464759313156  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+529.464759313156  SN.node[2].Application                   buffer vazio  size 0
+529.464986171158  SN.node[0].Application                   SLOT BBB 0DO NO 0
+529.464986171158  SN.node[0].Application                   Start 15
+529.464986171158  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+529.464986171158  SN.node[0].Application                   buffer vazio  size 0
+529.488653756669  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+529.488653756669  SN.node[1].Application                   buffer vazio  size 0
+542.365419320252  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+542.365419320252  SN.node[2].Application                   DADOS - seq 11 do no 2 destino 1 para nó 1 transmissor 2
+542.365419320252  SN.node[2].Application                   No Buffer: pacote tipo 3 seqdata 11 destino 1 origem 2 transmissor 2
+542.365759607255  SN.node[0].Application                   SLOT DO SINK
+542.365759607255  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+542.365759607255  SN.node[0].Application                   buffer vazio  size 0
+542.365759607255  SN.node[0].Application                   Start 18
+542.373759320249  SN.node[1].Application                   DADOS RECEBIDO - seq 11 origem 2 transmissor 2 destino 1
+542.373759320249  SN.node[1].Application                   Sending [Ack] of size 105 bytes to communication layer
+542.373759320249  SN.node[1].Application                   DADOS - seq 11 do no 2 destino 1 para nó 0 transmissor 1
+542.373759320249  SN.node[1].Application                    Tamanho do buffer no retarnsmite apos push 1
+542.373759320249  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 11 destino 0 origem 2 transmissor 1
+542.381796477184  SN.node[0].Application                   ACK RECEBIDO - Seq 11 ackid 1 seqdata 10 nopai 0
+542.381796477184  SN.node[0].Application                    Tamanho do buffer com origem diferente 0
+542.381796477184  SN.node[2].Application                    Tamanho do buffer antes pop 1
+542.385956477183  SN.node[0].Application                   DADOS RECEBIDO - seq 11 origem 2 transmissor 1 destino 0
+542.385956477183  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+555.28245648428   SN.node[2].Application                   SLOT BBB 0DO NO 2
+555.28245648428   SN.node[2].Application                   Start 45
+555.282569913281  SN.node[0].Application                   SLOT DO SINK
+555.282569913281  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+555.282569913281  SN.node[0].Application                   buffer vazio  size 0
+555.282569913281  SN.node[0].Application                   Start 51
+568.183116491376  SN.node[2].Application                   SLOT BBB 0DO NO 2
+568.183116491376  SN.node[2].Application                   Start 21
+568.183343349378  SN.node[0].Application                   SLOT DO SINK
+568.183343349378  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+568.183343349378  SN.node[0].Application                   buffer vazio  size 0
+568.183343349378  SN.node[0].Application                   Start 79
+568.183343349378  SN.node[0].Application                   buffer ok  size 1
+568.183343349378  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+568.1889157322    SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+568.1889157322    SN.node[1].Application                   DADOS - seq 11 do no 1 destino 0 para nó 0 transmissor 1
+568.1889157322    SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 11 destino 0 origem 1 transmissor 1
+568.197255732197  SN.node[0].Application                   DADOS RECEBIDO - seq 11 origem 1 transmissor 1 destino 0
+568.197255732197  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+568.24203745189   SN.node[1].Application                   ACK RECEBIDO - Seq 11 ackid 0 seqdata 11 nopai 0
+568.24203745189   SN.node[1].Application                    Tamanho do buffer depois pop 0
+581.083776498472  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+581.083776498472  SN.node[2].Application                   buffer vazio  size 0
+581.084116785475  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+581.084116785475  SN.node[0].Application                   buffer vazio  size 0
+581.142124777067  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+581.142124777067  SN.node[1].Application                   buffer vazio  size 0
+593.984436505568  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+593.984436505568  SN.node[2].Application                   buffer vazio  size 0
+593.984890221572  SN.node[0].Application                   SLOT BBB 0DO NO 0
+593.984890221572  SN.node[0].Application                   Start 93
+593.984890221572  SN.node[0].Application                   buffer ok  size 1
+593.984890221572  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+593.984890221572  SN.node[0].Application                   Start 0
+594.042212102244  SN.node[1].Application                   SLOT BBB 0DO NO 1
+594.042212102244  SN.node[1].Application                   Start 34
+606.885096512664  SN.node[2].Application                   SLOT BBB 0DO NO 2
+606.885096512664  SN.node[2].Application                   Start 64
+606.885663657669  SN.node[0].Application                   SLOT DO SINK
+606.885663657669  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+606.885663657669  SN.node[0].Application                   buffer vazio  size 0
+606.885663657669  SN.node[0].Application                   Start 14
+606.942299427421  SN.node[1].Application                   SLOT BBB 0DO NO 1
+606.942299427421  SN.node[1].Application                   Start 87
+606.942299427421  SN.node[1].Application                   buffer ok  size 1
+606.942299427421  SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+606.950639427418  SN.node[0].Application                   ACK ENVIADO - Seq 12 nó de origem pkt 1 Ackid 0
+606.950639427418  SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 12 do no 1
+606.958996256796  SN.node[1].Application                    Tamanho do buffer antes pop 1
+619.78575651976   SN.node[2].Application                   SLOT BBB 0DO NO 2
+619.78575651976   SN.node[2].Application                   Start 56
+619.786437093766  SN.node[0].Application                   SLOT DO SINK
+619.786437093766  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+619.786437093766  SN.node[0].Application                   buffer vazio  size 0
+619.786437093766  SN.node[0].Application                   Start 91
+619.786437093766  SN.node[0].Application                   buffer ok  size 1
+619.786437093766  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+619.859083581973  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+619.859083581973  SN.node[1].Application                   buffer vazio  size 0
+632.686416526856  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+632.686416526856  SN.node[2].Application                   buffer vazio  size 0
+632.687210529863  SN.node[0].Application                   SLOT AAA 3DO NO 0
+632.687210529863  SN.node[0].Application                   Start 59
+632.687210529863  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+632.687210529863  SN.node[0].Application                   buffer vazio  size 0
+632.75917090715   SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+632.75917090715   SN.node[1].Application                   buffer vazio  size 0
+645.587076533952  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+645.587076533952  SN.node[2].Application                   buffer vazio  size 0
+645.58798396596   SN.node[0].Application                   SLOT BBB 0DO NO 0
+645.58798396596   SN.node[0].Application                   Start 37
+645.58798396596   SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+645.58798396596   SN.node[0].Application                   buffer vazio  size 0
+645.659258232327  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+645.659258232327  SN.node[1].Application                   DADOS - seq 13 do no 1 destino 0 para nó 0 transmissor 1
+645.659258232327  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 13 destino 0 origem 1 transmissor 1
+645.667598232324  SN.node[0].Application                   DADOS RECEBIDO - seq 13 origem 1 transmissor 1 destino 0
+645.667598232324  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+645.684744037763  SN.node[1].Application                   ACK RECEBIDO - Seq 13 ackid 0 seqdata 13 nopai 0
+645.684744037763  SN.node[1].Application                    Tamanho do buffer depois pop 0
+658.487736541048  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+658.487736541048  SN.node[2].Application                   buffer vazio  size 0
+658.488757402057  SN.node[0].Application                   SLOT BBB 0DO NO 0
+658.488757402057  SN.node[0].Application                   Start 74
+658.488757402057  SN.node[0].Application                   buffer ok  size 1
+658.488757402057  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+658.488757402057  SN.node[0].Application                   Start 21
+658.58483136294   SN.node[1].Application                   SLOT BBB 0DO NO 1
+658.58483136294   SN.node[1].Application                   Start 58
+671.388396548144  SN.node[2].Application                   SLOT BBB 0DO NO 2
+671.388396548144  SN.node[2].Application                   Start 95
+671.388396548144  SN.node[2].Application                   buffer ok  size 1
+671.388396548144  SN.node[2].Application                   Sending [Data] of size 105 bytes to communication layer
+671.389530838154  SN.node[0].Application                   SLOT BBB 0DO NO 0
+671.389530838154  SN.node[0].Application                   Start 29
+671.389530838154  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+671.389530838154  SN.node[0].Application                   buffer vazio  size 0
+671.396736548141  SN.node[1].Application                   ACK ENVIADO - Seq 12 nó de origem pkt 2 Ackid 1
+671.396736548141  SN.node[1].Application                   ELSE - RETRANSMITINDO DADOS 12 origem 2 transmissor 2
+671.396736548141  SN.node[1].Application                    Tamanho do buffer no retransmite 0
+671.396736548141  SN.node[1].Application                   buffer ok  size 1
+671.396736548141  SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+671.443610668565  SN.node[0].Application                   Origem 1 diferente do pai 0 OU o SeqACK 12 diferente de SeqData 13
+671.443610668565  SN.node[2].Application                   ACK RECEBIDO - Seq 12 ackid 1 seqdata 12 nopai 1
+671.443610668565  SN.node[2].Application                    Tamanho do buffer depois pop 0
+671.447770668564  SN.node[0].Application                   ACK ENVIADO - Seq 12 nó de origem pkt 2 Ackid 0
+671.447770668564  SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 12 do no 2
+671.463176305521  SN.node[1].Application                    Tamanho do buffer antes pop 1
+684.344270675661  SN.node[2].Application                   SLOT BBB 0DO NO 2
+684.344270675661  SN.node[2].Application                   Start 35
+684.344384104662  SN.node[0].Application                   SLOT DO SINK
+684.344384104662  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+684.344384104662  SN.node[0].Application                   DADOS - seq 12 do no 0 destino 0 para nó 0 transmissor 0
+684.344384104662  SN.node[0].Application                   No Buffer: pacote tipo 3 seqdata 12 destino 0 origem 0 transmissor 0
+684.344384104662  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+684.344384104662  SN.node[0].Application                   buffer vazio  size 0
+684.363263630698  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+684.363263630698  SN.node[1].Application                   buffer vazio  size 0
+697.244930682757  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+697.244930682757  SN.node[2].Application                   buffer vazio  size 0
+697.245157540759  SN.node[0].Application                   SLOT BBB 0DO NO 0
+697.245157540759  SN.node[0].Application                   Start 11
+697.245157540759  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+697.245157540759  SN.node[0].Application                   buffer vazio  size 0
+697.263350955875  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+697.263350955875  SN.node[1].Application                   buffer vazio  size 0
+710.145590689853  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+710.145590689853  SN.node[2].Application                   DADOS - seq 13 do no 2 destino 1 para nó 1 transmissor 2
+710.145590689853  SN.node[2].Application                   No Buffer: pacote tipo 3 seqdata 13 destino 1 origem 2 transmissor 2
+710.145930976856  SN.node[0].Application                   SLOT DO SINK
+710.145930976856  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+710.145930976856  SN.node[0].Application                   buffer vazio  size 0
+710.145930976856  SN.node[0].Application                   Start 43
+710.15393068985   SN.node[1].Application                   DADOS RECEBIDO - seq 13 origem 2 transmissor 2 destino 1
+710.15393068985   SN.node[1].Application                   Sending [Ack] of size 105 bytes to communication layer
+710.15393068985   SN.node[1].Application                   DADOS - seq 13 do no 2 destino 1 para nó 0 transmissor 1
+710.15393068985   SN.node[1].Application                    Tamanho do buffer no retarnsmite apos push 1
+710.15393068985   SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 13 destino 0 origem 2 transmissor 1
+710.163438281052  SN.node[1].Application                   SLOT AAA 1DO NO 1
+710.163438281052  SN.node[1].Application                   Start 63
+710.189101300807  SN.node[0].Application                   ACK RECEBIDO - Seq 13 ackid 1 seqdata 12 nopai 0
+710.189101300807  SN.node[0].Application                    Tamanho do buffer com origem diferente 0
+710.189101300807  SN.node[2].Application                    Tamanho do buffer antes pop 1
+710.193261300806  SN.node[0].Application                   DADOS RECEBIDO - seq 13 origem 2 transmissor 1 destino 0
+710.193261300806  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+710.212077928111  SN.node[1].Application                   ACK RECEBIDO - Seq 13 ackid 0 seqdata 13 nopai 0
+710.212077928111  SN.node[1].Application                    Tamanho do buffer depois pop 0
+723.089761307903  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+723.089761307903  SN.node[2].Application                   buffer vazio  size 0
+723.089874736904  SN.node[0].Application                   SLOT BBB 0DO NO 0
+723.089874736904  SN.node[0].Application                   Start 38
+723.089874736904  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+723.089874736904  SN.node[0].Application                   buffer vazio  size 0
+723.112165253288  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+723.112165253288  SN.node[1].Application                   buffer vazio  size 0
+735.990421314999  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+735.990421314999  SN.node[2].Application                   buffer vazio  size 0
+735.990648173001  SN.node[0].Application                   SLOT BBB 0DO NO 0
+735.990648173001  SN.node[0].Application                   Start 18
+735.990648173001  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+735.990648173001  SN.node[0].Application                   buffer vazio  size 0
+736.012252578465  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+736.012252578465  SN.node[1].Application                   DADOS - seq 14 do no 1 destino 0 para nó 0 transmissor 1
+736.012252578465  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 14 destino 0 origem 1 transmissor 1
+736.020592578462  SN.node[0].Application                   DADOS RECEBIDO - seq 14 origem 1 transmissor 1 destino 0
+736.020592578462  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+736.036591708594  SN.node[1].Application                   ACK RECEBIDO - Seq 14 ackid 0 seqdata 14 nopai 0
+736.036591708594  SN.node[1].Application                    Tamanho do buffer depois pop 0
+748.891081322095  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+748.891081322095  SN.node[2].Application                   buffer vazio  size 0
+748.891421609098  SN.node[0].Application                   SLOT BBB 0DO NO 0
+748.891421609098  SN.node[0].Application                   Start 17
+748.891421609098  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+748.891421609098  SN.node[0].Application                   buffer vazio  size 0
+748.936679033771  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+748.936679033771  SN.node[1].Application                   DADOS - seq 15 do no 1 destino 0 para nó 0 transmissor 1
+748.936679033771  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 15 destino 0 origem 1 transmissor 1
+748.945019033768  SN.node[0].Application                   DADOS RECEBIDO - seq 15 origem 1 transmissor 1 destino 0
+748.945019033768  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+748.951341385355  SN.node[1].Application                   ACK RECEBIDO - Seq 15 ackid 0 seqdata 15 nopai 0
+748.951341385355  SN.node[1].Application                    Tamanho do buffer depois pop 0
+761.791741329191  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+761.791741329191  SN.node[2].Application                   buffer vazio  size 0
+761.792195045195  SN.node[0].Application                   SLOT BBB 0DO NO 0
+761.792195045195  SN.node[0].Application                   Start 43
+761.792195045195  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+761.792195045195  SN.node[0].Application                   buffer vazio  size 0
+761.851428710532  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+761.851428710532  SN.node[1].Application                   DADOS - seq 16 do no 1 destino 0 para nó 0 transmissor 1
+761.851428710532  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 16 destino 0 origem 1 transmissor 1
+761.859768710529  SN.node[0].Application                   DADOS RECEBIDO - seq 16 origem 1 transmissor 1 destino 0
+761.859768710529  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+761.875248920476  SN.node[1].Application                   ACK RECEBIDO - Seq 16 ackid 0 seqdata 16 nopai 0
+761.875248920476  SN.node[1].Application                    Tamanho do buffer depois pop 0
+774.692401336287  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+774.692401336287  SN.node[2].Application                   DADOS - seq 14 do no 2 destino 1 para nó 1 transmissor 2
+774.692401336287  SN.node[2].Application                   No Buffer: pacote tipo 3 seqdata 14 destino 1 origem 2 transmissor 2
+774.692968481292  SN.node[0].Application                   SLOT DO SINK
+774.692968481292  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+774.692968481292  SN.node[0].Application                   DADOS - seq 16 do no 0 destino 0 para nó 0 transmissor 0
+774.692968481292  SN.node[0].Application                   No Buffer: pacote tipo 3 seqdata 16 destino 0 origem 0 transmissor 0
+774.692968481292  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+774.692968481292  SN.node[0].Application                   DADOS - seq 16 do no 0 destino 0 para nó 0 transmissor 0
+774.692968481292  SN.node[0].Application                   No Buffer: pacote tipo 3 seqdata 16 destino 0 origem 0 transmissor 0
+774.700741336284  SN.node[1].Application                   DADOS RECEBIDO - seq 14 origem 2 transmissor 2 destino 1
+774.700741336284  SN.node[1].Application                   Sending [Ack] of size 105 bytes to communication layer
+774.700741336284  SN.node[1].Application                   DADOS - seq 14 do no 2 destino 1 para nó 0 transmissor 1
+774.700741336284  SN.node[1].Application                    Tamanho do buffer no retarnsmite apos push 1
+774.700741336284  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 14 destino 0 origem 2 transmissor 1
+774.711073608134  SN.node[0].Application                   ACK RECEBIDO - Seq 14 ackid 1 seqdata 16 nopai 0
+774.711073608134  SN.node[0].Application                    Tamanho do buffer com origem diferente 1
+774.711073608134  SN.node[2].Application                    Tamanho do buffer antes pop 1
+774.715233608133  SN.node[0].Application                   DADOS RECEBIDO - seq 14 origem 2 transmissor 1 destino 0
+774.715233608133  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+774.741249826617  SN.node[1].Application                   ACK RECEBIDO - Seq 14 ackid 0 seqdata 14 nopai 0
+774.741249826617  SN.node[1].Application                    Tamanho do buffer depois pop 0
+787.61173361523   SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+787.61173361523   SN.node[2].Application                   buffer vazio  size 0
+787.611847044231  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+787.611847044231  SN.node[0].Application                   buffer vazio  size 0
+787.641337151794  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+787.641337151794  SN.node[1].Application                   DADOS - seq 15 do no 1 destino 0 para nó 0 transmissor 1
+787.641337151794  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 15 destino 0 origem 1 transmissor 1
+787.649677151791  SN.node[0].Application                   DADOS RECEBIDO - seq 15 origem 1 transmissor 1 destino 0
+787.649677151791  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+787.668135340536  SN.node[1].Application                   ACK RECEBIDO - Seq 15 ackid 0 seqdata 15 nopai 0
+787.668135340536  SN.node[1].Application                    Tamanho do buffer depois pop 0
+800.512393622326  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+800.512620480328  SN.node[0].Application                   SLOT DO SINK
+800.512620480328  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+800.512620480328  SN.node[0].Application                   buffer vazio  size 0
+800.512620480328  SN.node[0].Application                   Start 54
+800.568222665713  SN.node[1].Application                   SLOT BBB 0DO NO 1
+800.568222665713  SN.node[1].Application                   Start 86
+800.568222665713  SN.node[1].Application                   buffer ok  size 1
+800.568222665713  SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+800.57656266571   SN.node[0].Application                   ACK ENVIADO - Seq 16 nó de origem pkt 1 Ackid 0
+800.57656266571   SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 16 do no 1
+800.592320559184  SN.node[1].Application                    Tamanho do buffer antes pop 1
+813.413053629422  SN.node[2].Application                   SLOT BBB 0DO NO 2
+813.413053629422  SN.node[2].Application                   Start 69
+813.413393916425  SN.node[0].Application                   SLOT DO SINK
+813.413393916425  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+813.413393916425  SN.node[0].Application                   DADOS - seq 16 do no 0 destino 0 para nó 0 transmissor 0
+813.413393916425  SN.node[0].Application                   No Buffer: pacote tipo 3 seqdata 16 destino 0 origem 0 transmissor 0
+813.413393916425  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+813.413393916425  SN.node[0].Application                   buffer vazio  size 0
+813.492407884361  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+813.492407884361  SN.node[1].Application                   buffer vazio  size 0
+826.313713636518  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+826.313713636518  SN.node[2].Application                   DADOS - seq 15 do no 2 destino 1 para nó 1 transmissor 2
+826.313713636518  SN.node[2].Application                   No Buffer: pacote tipo 3 seqdata 15 destino 1 origem 2 transmissor 2
+826.314167352522  SN.node[0].Application                   SLOT DO SINK
+826.314167352522  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+826.314167352522  SN.node[0].Application                   buffer vazio  size 0
+826.314167352522  SN.node[0].Application                   Start 55
+826.314167352522  SN.node[0].Application                   buffer vazio  size 0
+826.322053636515  SN.node[1].Application                   ACK ENVIADO - Seq 15 nó de origem pkt 2 Ackid 1
+826.322053636515  SN.node[1].Application                   ELSE - RETRANSMITINDO DADOS 15 origem 2 transmissor 2
+826.322053636515  SN.node[1].Application                    Tamanho do buffer no retransmite 0
+826.322053636515  SN.node[1].Application                   buffer ok  size 1
+826.322053636515  SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+826.343297466986  SN.node[0].Application                   Origem 1 diferente do pai 0 OU o SeqACK 15 diferente de SeqData 16
+826.343297466986  SN.node[2].Application                   ACK RECEBIDO - Seq 15 ackid 1 seqdata 15 nopai 1
+826.343297466986  SN.node[2].Application                    Tamanho do buffer depois pop 0
+826.347457466985  SN.node[0].Application                   ACK ENVIADO - Seq 15 nó de origem pkt 2 Ackid 0
+826.347457466985  SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 15 do no 2
+826.354293220205  SN.node[1].Application                    Tamanho do buffer antes pop 1
+839.243957474082  SN.node[2].Application                   SLOT BBB 0DO NO 2
+839.243957474082  SN.node[2].Application                   Start 4
+839.244070903083  SN.node[0].Application                   SLOT DO SINK
+839.244070903083  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+839.244070903083  SN.node[0].Application                   buffer vazio  size 0
+839.244070903083  SN.node[0].Application                   Start 11
+839.254380545382  SN.node[1].Application                   SLOT BBB 0DO NO 1
+839.254380545382  SN.node[1].Application                   Start 22
+852.144617481178  SN.node[2].Application                   SLOT BBB 0DO NO 2
+852.144617481178  SN.node[2].Application                   Start 28
+852.14484433918   SN.node[0].Application                   SLOT DO SINK
+852.14484433918   SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+852.14484433918   SN.node[0].Application                   DADOS - seq 15 do no 0 destino 0 para nó 0 transmissor 0
+852.14484433918   SN.node[0].Application                   No Buffer: pacote tipo 3 seqdata 15 destino 0 origem 0 transmissor 0
+852.14484433918   SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+852.14484433918   SN.node[0].Application                   buffer vazio  size 0
+852.154467870559  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+852.154467870559  SN.node[1].Application                   buffer vazio  size 0
+865.045277488274  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+865.045277488274  SN.node[2].Application                   buffer vazio  size 0
+865.045617775277  SN.node[0].Application                   SLOT BBB 0DO NO 0
+865.045617775277  SN.node[0].Application                   Start 40
+865.045617775277  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+865.045617775277  SN.node[0].Application                   buffer vazio  size 0
+865.054555195736  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+865.054555195736  SN.node[1].Application                   buffer vazio  size 0
+877.94593749537   SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+877.94593749537   SN.node[2].Application                   buffer vazio  size 0
+877.946391211374  SN.node[0].Application                   SLOT BBB 0DO NO 0
+877.946391211374  SN.node[0].Application                   Start 5
+877.946391211374  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+877.946391211374  SN.node[0].Application                   buffer vazio  size 0
+877.954642520913  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+877.954642520913  SN.node[1].Application                   buffer vazio  size 0
+890.846597502466  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+890.846597502466  SN.node[2].Application                   buffer vazio  size 0
+890.847164647471  SN.node[0].Application                   SLOT BBB 0DO NO 0
+890.847164647471  SN.node[0].Application                   Start 78
+890.847164647471  SN.node[0].Application                   buffer ok  size 1
+890.847164647471  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+890.847164647471  SN.node[0].Application                   Start 5
+890.85472984609   SN.node[1].Application                   SLOT BBB 0DO NO 1
+890.85472984609   SN.node[1].Application                   Start 20
+903.747257509562  SN.node[2].Application                   SLOT BBB 0DO NO 2
+903.747257509562  SN.node[2].Application                   Start 36
+903.747938083568  SN.node[0].Application                   SLOT DO SINK
+903.747938083568  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+903.747938083568  SN.node[0].Application                   buffer vazio  size 0
+903.747938083568  SN.node[0].Application                   Start 26
+903.754817171267  SN.node[1].Application                   SLOT BBB 0DO NO 1
+903.754817171267  SN.node[1].Application                   Start 22
+916.647917516658  SN.node[2].Application                   SLOT BBB 0DO NO 2
+916.647917516658  SN.node[2].Application                   Start 65
+916.648711519665  SN.node[0].Application                   SLOT DO SINK
+916.648711519665  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+916.648711519665  SN.node[0].Application                   buffer vazio  size 0
+916.648711519665  SN.node[0].Application                   Start 16
+916.654904496444  SN.node[1].Application                   SLOT BBB 0DO NO 1
+916.654904496444  SN.node[1].Application                   Start 82
+916.654904496444  SN.node[1].Application                   buffer ok  size 1
+916.654904496444  SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+916.663244496441  SN.node[0].Application                   ACK ENVIADO - Seq 16 nó de origem pkt 1 Ackid 0
+916.663244496441  SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 16 do no 1
+916.677168084267  SN.node[1].Application                    Tamanho do buffer antes pop 1
+929.548577523754  SN.node[2].Application                   SLOT BBB 0DO NO 2
+929.548577523754  SN.node[2].Application                   Start 58
+929.549484955762  SN.node[0].Application                   SLOT DO SINK
+929.549484955762  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+929.549484955762  SN.node[0].Application                   buffer vazio  size 0
+929.549484955762  SN.node[0].Application                   Start 37
+929.577255409444  SN.node[1].Application                   SLOT BBB 0DO NO 1
+929.577255409444  SN.node[1].Application                   Start 62
+942.44923753085   SN.node[2].Application                   SLOT BBB 0DO NO 2
+942.44923753085   SN.node[2].Application                   Start 24
+942.450258391859  SN.node[0].Application                   SLOT DO SINK
+942.450258391859  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+942.450258391859  SN.node[0].Application                   buffer vazio  size 0
+942.450258391859  SN.node[0].Application                   Start 36
+942.477342734621  SN.node[1].Application                   SLOT BBB 0DO NO 1
+942.477342734621  SN.node[1].Application                   Start 52
+955.349897537946  SN.node[2].Application                   SLOT BBB 0DO NO 2
+955.349897537946  SN.node[2].Application                   Start 99
+955.349897537946  SN.node[2].Application                   buffer ok  size 1
+955.349897537946  SN.node[2].Application                   Sending [Data] of size 105 bytes to communication layer
+955.351031827956  SN.node[0].Application                   SLOT BBB 0DO NO 0
+955.351031827956  SN.node[0].Application                   Start 79
+955.351031827956  SN.node[0].Application                   buffer ok  size 1
+955.351031827956  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+955.351031827956  SN.node[0].Application                   Start 50
+955.358237537943  SN.node[1].Application                   DADOS RECEBIDO - seq 16 origem 2 transmissor 2 destino 1
+955.358237537943  SN.node[1].Application                   Sending [Ack] of size 105 bytes to communication layer
+955.358237537943  SN.node[1].Application                   DADOS - seq 16 do no 2 destino 1 para nó 0 transmissor 1
+955.358237537943  SN.node[1].Application                    Tamanho do buffer no retarnsmite apos push 1
+955.358237537943  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 16 destino 0 origem 2 transmissor 1
+955.384861110568  SN.node[0].Application                   ACK RECEBIDO - Seq 16 ackid 1 seqdata 16 nopai 0
+955.384861110568  SN.node[0].Application                    Tamanho do buffer com origem diferente 0
+955.384861110568  SN.node[2].Application                    Tamanho do buffer antes pop 1
+955.389021110567  SN.node[0].Application                   DADOS RECEBIDO - seq 16 origem 2 transmissor 1 destino 0
+955.389021110567  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+955.400598573022  SN.node[1].Application                   ACK RECEBIDO - Seq 16 ackid 0 seqdata 16 nopai 0
+955.400598573022  SN.node[1].Application                    Tamanho do buffer depois pop 0
+968.285521117664  SN.node[2].Application                   Sending [Beacon] of size 105 bytes to communication layer
+968.285521117664  SN.node[2].Application                   buffer vazio  size 0
+968.285634546665  SN.node[0].Application                   SLOT BBB 0DO NO 0
+968.285634546665  SN.node[0].Application                   Start 71
+968.285634546665  SN.node[0].Application                   buffer ok  size 1
+968.285634546665  SN.node[0].Application                   Sending [Data] of size 105 bytes to communication layer
+968.285634546665  SN.node[0].Application                   Start 73
+968.285634546665  SN.node[0].Application                   No Buffer: pacote tipo 3 seqdata 16 destino 0 origem 0 transmissor 0
+968.300685898199  SN.node[1].Application                   SLOT BBB 0DO NO 1
+968.300685898199  SN.node[1].Application                   Start 31
+981.18618112476   SN.node[2].Application                   SLOT BBB 0DO NO 2
+981.18618112476   SN.node[2].Application                   Start 81
+981.18618112476   SN.node[2].Application                   buffer ok  size 1
+981.18618112476   SN.node[2].Application                   Sending [Data] of size 105 bytes to communication layer
+981.186407982762  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+981.186407982762  SN.node[0].Application                   buffer vazio  size 0
+981.194521124757  SN.node[1].Application                   ACK ENVIADO - Seq 17 nó de origem pkt 2 Ackid 1
+981.194521124757  SN.node[1].Application                   ELSE - RETRANSMITINDO DADOS 17 origem 2 transmissor 2
+981.194521124757  SN.node[1].Application                    Tamanho do buffer no retransmite 0
+981.194521124757  SN.node[1].Application                   buffer ok  size 1
+981.194521124757  SN.node[1].Application                   Sending [Data] of size 105 bytes to communication layer
+981.200773223376  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+981.200773223376  SN.node[1].Application                   buffer vazio  size 0
+981.206203747294  SN.node[0].Application                   Origem 1 diferente do pai 0 OU o SeqACK 17 diferente de SeqData 16
+981.206203747294  SN.node[2].Application                   ACK RECEBIDO - Seq 17 ackid 1 seqdata 17 nopai 1
+981.206203747294  SN.node[2].Application                    Tamanho do buffer depois pop 0
+981.210363747293  SN.node[0].Application                   ACK ENVIADO - Seq 17 nó de origem pkt 2 Ackid 0
+981.210363747293  SN.node[0].Application                   SINK - DADOS RECEBIDOS - seq 17 do no 2
+981.233002367332  SN.node[1].Application                    Tamanho do buffer antes pop 0
+994.10686375439   SN.node[2].Application                   SLOT BBB 0DO NO 2
+994.10686375439   SN.node[2].Application                   Start 94
+994.10686375439   SN.node[2].Application                   buffer ok  size 1
+994.10686375439   SN.node[2].Application                   Sending [Data] of size 105 bytes to communication layer
+994.106977183391  SN.node[0].Application                   SLOT BBB 0DO NO 0
+994.106977183391  SN.node[0].Application                   Start 60
+994.106977183391  SN.node[0].Application                   Sending [Beacon] of size 105 bytes to communication layer
+994.106977183391  SN.node[0].Application                   buffer vazio  size 0
+994.133089692509  SN.node[1].Application                   Sending [Beacon] of size 105 bytes to communication layer
+994.133089692509  SN.node[1].Application                   DADOS - seq 18 do no 1 destino 0 para nó 0 transmissor 1
+994.133089692509  SN.node[1].Application                   No Buffer: pacote tipo 3 seqdata 18 destino 0 origem 1 transmissor 1
+994.141429692506  SN.node[0].Application                   DADOS RECEBIDO - seq 18 origem 1 transmissor 1 destino 0
+994.141429692506  SN.node[0].Application                   Sending [Ack] of size 105 bytes to communication layer
+994.155740892843  SN.node[1].Application                   ACK RECEBIDO - Seq 18 ackid 0 seqdata 18 nopai 0
+994.155740892843  SN.node[1].Application                    Tamanho do buffer depois pop 0

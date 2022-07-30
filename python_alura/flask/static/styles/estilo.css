@@ -1,0 +1,14 @@
+body{
+    background: #efefef;
+}
+h1{
+    font-size: 24px;
+    color: #4f4f4f;
+}
+table{
+    border-collapse: collapse;
+}
+th,td{
+
+    border: 1px solid #000;
+}

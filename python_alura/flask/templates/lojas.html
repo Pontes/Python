@@ -1,0 +1,21 @@
+{% extends "template_indicaki.html" %}
+{% block conteudo %}
+
+            <table class="table table-striped table-responsive table-bordered">
+                    <tr>
+                        <th>Nome</th>
+                        <th>Categoria</th>
+                        <th>Console</th>
+                    </tr>
+
+                {% for loja in lojas %}
+                <tr>
+                    <td>{{ loja.produto|title }}</td>
+                    <td>{{ loja.categoria|upper }}</td>
+                    <td>{{ loja.empresa|title }}</td>
+                </tr>
+                {% endfor %}
+
+            </table>
+
+{% endblock %}

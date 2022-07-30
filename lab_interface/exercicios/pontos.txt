@@ -1,0 +1,25 @@
+301 193
+387 158
+322 118
+103 271
+267 174
+Está é uma linha composta de caracteres!!!
+146 394
+140 146
+371 185
+4 380
+209 205
+288 209
+224 66
+397 119
+70 136
+387 14
+98 357
+26 176
+Agora irá seguir com ponto flutuantes
+137.98 258.1 341.123 287.89988
+Agora será 3 espaços vazios e alguns números em linha.
+
+
+311 69 134 34      105 97 114 239
+53 347
