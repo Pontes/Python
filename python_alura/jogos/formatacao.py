@@ -1,0 +1,15 @@
+print("imprimindo {} de {} ". format(3,10))
+
+print("invertendo os parametros {1} de {0}". format(4,12))
+
+print("Recebendo Valor R$ {:.2f}". format(1.59))
+print("Recebendo Valor R$ {:.2f}". format(9.8))
+print("Recebendo Valor R$ {:7.2f}". format(154.7))
+print("Recebendo Valor R$ {:7.2f}". format(14.7))
+print("Recebendo Valor R$ {:7.2f}". format(4.7))
+print("Recebendo Valor R$ {:07.2f}". format(4.7))
+print("")
+print("Recebendo Valor R$ {:07d}". format(4))
+print()
+print("data {:02d}/{:02d}".format(14,9))
+print()
